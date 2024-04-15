@@ -1,0 +1,10 @@
+1 "paracetamol 500mg" "used for fever" 40 7.00 "tablets" 25 12 2023
+2 "dolo 600mg" "used for fever and body pains" 100 10.00 "tablets" 31 12 2023
+3 "cetrizine 10mg" "used for cold,blockage of nose" 15 5.00 "tablets" 29 12 2023
+4 "Tus Q" "used for cough" 10 12.00 "tablets" 10 12 2005
+5 "coldact" "used for cold" 74 14.00 "tablets" 1 1 2024
+6 "Pears" "used for body washing" 5 35.00 "soaps" 1 1 2024
+7 "Lifeboy" "used for body washing" 4 30.00 "soaps" 1 12 2023
+8 "bandaids" "used for antiseptic" 20 2.00 "antiseptic" 25 1 2024
+9 "Dettol" "used for cuts and wounds" 10 50.00 "antiseptic" 25 1 2024
+10 "Minimalist sunscreen" "used as sunscreen lotion" 10 300.00 "lotion" 1 12 2023
