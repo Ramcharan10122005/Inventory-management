@@ -2,10 +2,15 @@
 This project is an inventory management system implemented in C that helps you manage and track items in your inventory. The program allows you to add, update, delete, and view inventory items, and it logs changes in a text file (inventory.txt).
 
 # Features
+
 1)Add items to the inventory.
+
 2)Update the quantity or properties of existing items.
+
 3)Delete items from the inventory.
+
 4)View the current state of the inventory.
+
 5)Log changes made to the inventory in inventory.txt.
 
 # Getting Started
